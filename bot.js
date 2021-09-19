@@ -1,7 +1,7 @@
 /* Copyright (C) 2020 JIHAD.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-WhatsAsena - elsamwol
+WhatsAsena - sb.amardesh
 */
 
 const fs = require("fs");
@@ -133,7 +133,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('ElsaMwol working! 🕺')
+            chalk.green.bold('sb.amardesh working! 🕺')
         );
     });
     
@@ -250,7 +250,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                             await command.function(whats, match);
                         } catch (error) {
                             if (config.LANG == 'TR' || config.LANG == 'AZ') {
-                                await conn.sendMessage(conn.user.jid, '-- HATA RAPORU [ElsaMwol V2] --' + 
+                                await conn.sendMessage(conn.user.jid, '-- HATA RAPORU [sb.amardesh V2] --' + 
                                     '\n*WhatsAsena bir hata gerçekleşti!*'+
                                     '\n_Bu hata logunda numaranız veya karşı bir tarafın numarası olabilir. Lütfen buna dikkat edin!_' +
                                     '\n_Yardım için Telegram grubumuza yazabilirsiniz._' +
@@ -258,7 +258,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '💝______```ElsaMwol V2```_____💝' +
+                                await conn.sendMessage(conn.user.jid, '💝______```sb.amardesh V2```_____💝' +
                                     '\n\n*🙍 ' + error + '*\n'
                                     , MessageType.text);
                             }
