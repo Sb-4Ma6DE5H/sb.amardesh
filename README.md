@@ -1,32 +1,21 @@
-<div align="center">
-  <img border-radius: 15px src="https://user-images.githubusercontent.com/85656190/125904165-6a4acc9d-70f8-483e-8423-fb93a183488e.jpg" width="200" height="200"/>
-  
+## Sb𓄂4Ma6DE5H✞︎☠︎︎༒︎ 🥰
+
+<img src=https://www.linkpicture.com/q/IMG-20210708-WA0035.jpg>
   <p align="center">
     
-<a href="#"><img title="Elsa Mwol"
- src="https://img.shields.io/badge/-Elsa%20Mowl-blue?&style=for-the-badge"></a>
+<a href="#"><img title=""
+ src="https://img.shields.io/badge/-amar%20desh-blue?&style=for-the-badge"></a>
  </p>
   <p align="center">
-<a href="https://wa.me/917736703116"><img title="Author" src="https://img.shields.io/badge/Author-JIHAD-Ser/Elsa%20Mowl?color=Blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/919946803234"><img title="Author" src="https://img.shields.io/badge/Author-Amar-Ser/Amar%20Desh?color=Blue&style=for-the-badge&logo=whatsapp"></a>
  </p>
  
-## Subscriber My Channel More Updates Coming Soon..
- 
-![20210613_095153](https://user-images.githubusercontent.com/85656190/125904681-fc8f3ca0-3c3d-4bd1-b852-6036a7efd8e4.jpg) 
-
- ##
-https://youtube.com/channel/UCJsw1rA4aiujLDM42Yte1nQ
  
 # 📢 Guide
-Click WA logo to Join Support Group 👇
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G8RHcba0E5x3L1d9uICyK0)
-  <div align="center">
  
 
 
-# Elsa Mwol WhatsApp Bot 
+# Amar Desh WhatsApp Bot 
 
 # Setup
 <div align="center">
@@ -35,7 +24,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@JihadSabeena123/JULIEMWOL-QR#index.js)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/J-I-H-A-D/ElsaMwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sb-4Ma6DE5H/sb.amardesh)
      </div>
      
      ## TERMUX SET UP
@@ -47,8 +36,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/J-I-H-A-D/ElsaMwol
-$ cd ElsaMwol
+$ git clone https://github.com/Sb-4Ma6DE5H/sb.amardesh
+$ cd sb.amardesh
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -58,8 +47,8 @@ $ node qr.js
 ```js
 SETUP
 
-$ git clone https://github.com/J-I-H-A-D/ElsaMwol
-$ cd ElsaMwol
+$ git clone https://github.com/Sb-4Ma6DE5H/sb.amardesh
+$ cd sb.amardesh
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -72,7 +61,7 @@ $ node bot.js
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, J-I-H-A-D do not accept responsibility.
+Absolutely, Sb-4Ma6DE5H do not accept responsibility.
 By establishing the Userbot, you are deemed to have accepted these responsibilities.
 ```
 
