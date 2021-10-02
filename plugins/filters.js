@@ -114,7 +114,7 @@ Asena.addCommand({pattern: 'stop ?(.*)', fromMe: true, desc: Lang.STOP_DESC, don
 
    if (budy.includes(`test`)) {  
 const kili = fs.readFileSync('./sound/kili.m4a');
-denz.sendMessage(from, kili, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+await message.client.sendMessage(from, kili, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
 
 if (Config.BGM == 'one') {  
     
