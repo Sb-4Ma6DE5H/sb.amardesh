@@ -111,11 +111,6 @@ Asena.addCommand({pattern: 'stop ?(.*)', fromMe: true, desc: Lang.STOP_DESC, don
         await message.client.sendMessage(message.jid,Lang.DELETED, MessageType.text)
     }
 }));
-
-   if (budy.includes(`test`)) {  
-const kili = fs.readFileSync('./sound/kili.m4a');
-await message.client.sendMessage(from, kili, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
-
 if (Config.BGM == 'one') {  
     
 Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
